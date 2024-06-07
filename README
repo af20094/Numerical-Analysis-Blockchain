@@ -1,4 +1,4 @@
-The mean sojourn time　considering priority : The mean sojourn time with priority when changing the occupancy rate.
+The mean sojourn time considering priority : The mean sojourn time with priority when changing the occupancy rate.
 The mean sojourn time compare ET and ETH : The mean sojourn time when comparing ET and ETH(priority alpha = 0.9.
 The mean sojourn time compare ETL and ETH : The mean sojourn time when comparing ETL and ETH.
 The mean sojourn time per bathsize : The mean sojourn time per bathsize ( 1~900)
